@@ -1,14 +1,14 @@
 ---
 title: yumemi_lints を開発したお話
 tags:
-  - Flutter
   - Dart
-  - lint
   - OSS
+  - lint
+  - Flutter
 private: true
-updated_at: ''
-id: null
-organization_url_name:
+updated_at: '2023-12-03T17:02:00+09:00'
+id: e2006e56b2c008f09cc6
+organization_url_name: null
 slide: false
 ignorePublish: false
 ---
