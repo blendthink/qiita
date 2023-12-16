@@ -4,10 +4,10 @@ tags:
   - Dart
   - CLI
   - Riverpod
-private: true
-updated_at: '2023-12-05T18:42:39+09:00'
+private: false
+updated_at: '2023-12-16T07:00:12+09:00'
 id: 84148bd27c52459d9190
-organization_url_name: null
+organization_url_name: yumemi
 slide: false
 ignorePublish: false
 ---
