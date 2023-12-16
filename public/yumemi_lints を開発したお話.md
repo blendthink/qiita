@@ -6,7 +6,7 @@ tags:
   - lint
   - Flutter
 private: true
-updated_at: '2023-12-05T18:42:39+09:00'
+updated_at: '2023-12-17T00:50:20+09:00'
 id: e2006e56b2c008f09cc6
 organization_url_name: null
 slide: false
