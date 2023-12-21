@@ -4,8 +4,8 @@ tags:
   - Flutter
   - arb
 private: false
-updated_at: ''
-id: null
+updated_at: '2023-12-22T01:06:01+09:00'
+id: ca9fddf2b977400c6259
 organization_url_name: yumemi
 slide: false
 ignorePublish: false
